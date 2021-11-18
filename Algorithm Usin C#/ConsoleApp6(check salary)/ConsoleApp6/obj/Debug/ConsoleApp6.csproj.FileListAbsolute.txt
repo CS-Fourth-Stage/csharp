@@ -1,0 +1,7 @@
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb

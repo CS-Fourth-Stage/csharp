@@ -1,0 +1,14 @@
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.AssemblyReference.cache
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp9(insertion sort)\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp9(insertion sort)\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp9(insertion sort)\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp9(insertion sort)\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.AssemblyReference.cache
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp9(insertion sort)\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp9(insertion sort)\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp9(insertion sort)\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
