@@ -1,0 +1,17 @@
+C:\Users\HOME\Desktop\College\Practical\C#\Quick_Sort\obj\Debug\Quick_Sort.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\College\Practical\C#\Quick_Sort\obj\Debug\Quick_Sort.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\College\Practical\C#\Quick_Sort\bin\Debug\Quick_Sort.exe.config
+C:\Users\HOME\Desktop\College\Practical\C#\Quick_Sort\bin\Debug\Quick_Sort.exe
+C:\Users\HOME\Desktop\College\Practical\C#\Quick_Sort\bin\Debug\Quick_Sort.pdb
+C:\Users\HOME\Desktop\College\Practical\C#\Quick_Sort\obj\Debug\Quick_Sort.exe
+C:\Users\HOME\Desktop\College\Practical\C#\Quick_Sort\obj\Debug\Quick_Sort.pdb
+E:\College\Practical\C#\Quick_Sort\bin\Debug\Quick_Sort.exe.config
+E:\College\Practical\C#\Quick_Sort\obj\Debug\Quick_Sort.exe
+E:\College\Practical\C#\Quick_Sort\obj\Debug\Quick_Sort.pdb
+C:\Users\Lenovo\Desktop\Quick_Sort\bin\Debug\Quick_Sort.exe.config
+C:\Users\Lenovo\Desktop\Quick_Sort\bin\Debug\Quick_Sort.exe
+C:\Users\Lenovo\Desktop\Quick_Sort\bin\Debug\Quick_Sort.pdb
+C:\Users\Lenovo\Desktop\Quick_Sort\obj\Debug\Quick_Sort.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Quick_Sort\obj\Debug\Quick_Sort.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Quick_Sort\obj\Debug\Quick_Sort.exe
+C:\Users\Lenovo\Desktop\Quick_Sort\obj\Debug\Quick_Sort.pdb
