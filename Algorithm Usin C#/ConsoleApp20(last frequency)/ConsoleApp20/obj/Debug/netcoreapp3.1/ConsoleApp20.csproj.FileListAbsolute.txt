@@ -1,0 +1,13 @@
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp20\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.exe
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp20\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.deps.json
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp20\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.runtimeconfig.json
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp20\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.runtimeconfig.dev.json
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp20\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.dll
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp20\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.pdb
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp20\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp20\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.AssemblyInfoInputs.cache
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp20\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.AssemblyInfo.cs
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp20\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.csproj.CoreCompileInputs.cache
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp20\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.dll
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp20\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.pdb
+D:\Fouth Year College\4th Stage College (2021-2022)\4th Stage Practical Files\Algorithm Usin C#\ConsoleApp20\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.genruntimeconfig.cache
